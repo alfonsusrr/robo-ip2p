@@ -153,7 +153,7 @@ Modify these variables directly within the script before running. Evaluation res
 
 This project builds upon and utilizes resources from the following great works:
 
-*   **RoboTwin:** The dataset and simulation environment likely originate from or are inspired by the RoboTwin project. We thank the authors for their contribution to the community.
+*   **RoboTwin:** The dataset and simulation environment originate from the RoboTwin project. We thank the authors for their contribution to the community.
     *   [https://github.com/TianxingChen/RoboTwin](https://github.com/TianxingChen/RoboTwin)
 *   **InstructPix2Pix:** The core image generation model is based on the InstructPix2Pix architecture.
     *   [https://github.com/timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix)
