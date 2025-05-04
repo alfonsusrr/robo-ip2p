@@ -148,3 +148,29 @@ bash scripts/run_eval.sh
 - `LIMIT_SAMPLES`: Maximum number of samples to evaluate (-1 for no limit).
 
 Modify these variables directly within the script before running. Evaluation results will be saved in the specified `EVAL_OUTPUT_DIR`.
+
+## Acknowledgements
+
+This project builds upon and utilizes resources from the following great works:
+
+*   **RoboTwin:** The dataset and simulation environment likely originate from or are inspired by the RoboTwin project. We thank the authors for their contribution to the community.
+    *   [https://github.com/TianxingChen/RoboTwin](https://github.com/TianxingChen/RoboTwin)
+*   **InstructPix2Pix:** The core image generation model is based on the InstructPix2Pix architecture.
+    *   [https://github.com/timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix)
+
+Please refer to their respective repositories and papers for more details.
+
+## ✏️ Citation
+
+If you find this project useful in your research, please consider citing it:
+
+```bibtex
+@misc{roboip2p2025, 
+    author    = {Alfonsus Rendy, Nicholas Oh, William Archieta}, -- TODO: Update author
+    title     = {Next Frame Prediction for Robot Manipulation}, 
+    year      = {2025}, 
+    publisher = {GitHub},
+    journal   = {GitHub repository},
+    howpublished = {\url{https://github.com/alfonsusrr/robo-ip2p}} -- TODO: Update URL
+}
+```
