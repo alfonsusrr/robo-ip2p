@@ -33,4 +33,5 @@ dependencies:
     - openai
     - gradio
     - seaborn
+    - wandb
     - git+https://github.com/crowsonkb/k-diffusion.git

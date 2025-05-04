@@ -8,7 +8,7 @@ MODEL_NAME="ip2p-robotwin-v2-10" # Or specify a local path if downloaded
 MODEL_PATH="./model/${MODEL_NAME}"
 # MODEL_PATH=${MODEL_NAME}
 DATA_DIR="./data2"             # Relative path to the data directory
-EVAL_OUTPUT_DIR="./samples/${MODEL_NAME}" # Directory to save evaluation results
+EVAL_OUTPUT_DIR="./sampless/${MODEL_NAME}" # Directory to save evaluation results
 SAVE_IMAGES=true  # Changed to lowercase for boolean convention
 LIMIT_SAMPLES=-1 # -1 means no limit sample
 

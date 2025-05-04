@@ -59,6 +59,14 @@ Follow these steps to set up the environment, download the necessary models, and
     bash scripts/download_data.sh
     ```
 
+6. **Login to WANDB:**
+    Log in to Weights & Biases for experiment tracking. You'll need to have a WANDB account and API key ready.
+
+    ```bash
+    wandb login --relogin
+    ```
+
+
 After completing these steps, your environment should be ready, the required models downloaded, and the datasets (`./data` and `./data2`) prepared.
 
 ## 📊 Data Structure

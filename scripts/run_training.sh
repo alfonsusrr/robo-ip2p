@@ -5,8 +5,8 @@ set -e
 
 # Define variables for paths and parameters (makes it easier to modify)
 BASE_MODEL="timbrooks/instruct-pix2pix" # Or specify a local path if downloaded
-DATA_DIR="./data"             # Relative path to the data directory
-OUTPUT_DIR="./output-1x50"       # Relative path for outputs
+DATA_DIR="./data2"             # Relative path to the data directory
+OUTPUT_DIR="./output"       # Relative path for outputs
 
 EPOCHS=4
 BATCH_SIZE=20     # Adjust based on GPU memory
