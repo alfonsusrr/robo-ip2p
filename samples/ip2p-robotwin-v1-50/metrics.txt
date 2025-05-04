@@ -1,0 +1,158 @@
+Autoregressive Prediction - Average Metrics per Step:
+Batch 0, Sample 0:
+  Step (i+50): PSNR = 13.9056, SSIM = 0.7287
+Batch 0, Sample 1:
+  Step (i+50): PSNR = 12.6200, SSIM = 0.7813
+Batch 0, Sample 2:
+  Step (i+50): PSNR = 25.1704, SSIM = 0.9165
+Batch 0, Sample 3:
+  Step (i+50): PSNR = 20.3807, SSIM = 0.8757
+Batch 0, Sample 4:
+  Step (i+50): PSNR = 16.6928, SSIM = 0.8282
+Batch 0, Sample 5:
+  Step (i+50): PSNR = 15.2979, SSIM = 0.8233
+Batch 0, Sample 6:
+  Step (i+50): PSNR = 9.4291, SSIM = 0.6840
+Batch 0, Sample 7:
+  Step (i+50): PSNR = 15.8005, SSIM = 0.8195
+Batch 0, Sample 8:
+  Step (i+50): PSNR = 11.7298, SSIM = 0.6213
+Batch 0, Sample 9:
+  Step (i+50): PSNR = 9.8368, SSIM = 0.7208
+Batch 0, Sample 10:
+  Step (i+50): PSNR = 18.2263, SSIM = 0.8815
+Batch 0, Sample 11:
+  Step (i+50): PSNR = 11.5902, SSIM = 0.8191
+Batch 0, Sample 12:
+  Step (i+50): PSNR = 8.8462, SSIM = 0.6800
+Batch 0, Sample 13:
+  Step (i+50): PSNR = 18.9657, SSIM = 0.8997
+Batch 0, Sample 14:
+  Step (i+50): PSNR = 7.2488, SSIM = 0.5685
+Batch 0, Sample 15:
+  Step (i+50): PSNR = 23.9836, SSIM = 0.9362
+Batch 0, Sample 16:
+  Step (i+50): PSNR = 9.9258, SSIM = 0.7010
+Batch 0, Sample 17:
+  Step (i+50): PSNR = 21.5640, SSIM = 0.8840
+Batch 0, Sample 18:
+  Step (i+50): PSNR = 14.2126, SSIM = 0.8018
+Batch 0, Sample 19:
+  Step (i+50): PSNR = 24.3083, SSIM = 0.9271
+Batch 0, Sample 20:
+  Step (i+50): PSNR = 26.7485, SSIM = 0.9664
+Batch 0, Sample 21:
+  Step (i+50): PSNR = 16.0768, SSIM = 0.7733
+Batch 0, Sample 22:
+  Step (i+50): PSNR = 7.4174, SSIM = 0.5451
+Batch 0, Sample 23:
+  Step (i+50): PSNR = 8.3249, SSIM = 0.6210
+Batch 0, Sample 24:
+  Step (i+50): PSNR = 17.2210, SSIM = 0.8224
+Batch 0, Sample 25:
+  Step (i+50): PSNR = 20.9554, SSIM = 0.8948
+Batch 0, Sample 26:
+  Step (i+50): PSNR = 15.2924, SSIM = 0.8170
+Batch 0, Sample 27:
+  Step (i+50): PSNR = 7.7752, SSIM = 0.5009
+Batch 0, Sample 28:
+  Step (i+50): PSNR = 24.9213, SSIM = 0.9242
+Batch 0, Sample 29:
+  Step (i+50): PSNR = 31.3909, SSIM = 0.9555
+Batch 0, Sample 30:
+  Step (i+50): PSNR = 16.9233, SSIM = 0.8559
+Batch 0, Sample 31:
+  Step (i+50): PSNR = 19.6833, SSIM = 0.8542
+Batch 0, Sample 32:
+  Step (i+50): PSNR = 25.2641, SSIM = 0.9135
+Batch 0, Sample 33:
+  Step (i+50): PSNR = 16.4285, SSIM = 0.8443
+Batch 0, Sample 34:
+  Step (i+50): PSNR = 21.9807, SSIM = 0.9172
+Batch 0, Sample 35:
+  Step (i+50): PSNR = 15.6295, SSIM = 0.8407
+Batch 0, Sample 36:
+  Step (i+50): PSNR = 7.1802, SSIM = 0.5255
+Batch 0, Sample 37:
+  Step (i+50): PSNR = 26.2127, SSIM = 0.9236
+Batch 0, Sample 38:
+  Step (i+50): PSNR = 11.5228, SSIM = 0.7151
+Batch 0, Sample 39:
+  Step (i+50): PSNR = 16.3434, SSIM = 0.8603
+Batch 0, Sample 40:
+  Step (i+50): PSNR = 13.8082, SSIM = 0.7174
+Batch 0, Sample 41:
+  Step (i+50): PSNR = 30.0795, SSIM = 0.9594
+Batch 0, Sample 42:
+  Step (i+50): PSNR = 27.5513, SSIM = 0.9357
+Batch 0, Sample 43:
+  Step (i+50): PSNR = 8.3814, SSIM = 0.5259
+Batch 0, Sample 44:
+  Step (i+50): PSNR = 25.3966, SSIM = 0.9167
+Batch 0, Sample 45:
+  Step (i+50): PSNR = 31.6517, SSIM = 0.9642
+Batch 0, Sample 46:
+  Step (i+50): PSNR = 11.7739, SSIM = 0.7284
+Batch 0, Sample 47:
+  Step (i+50): PSNR = 32.7479, SSIM = 0.9661
+Batch 0, Sample 48:
+  Step (i+50): PSNR = 15.6701, SSIM = 0.8011
+Batch 0, Sample 49:
+  Step (i+50): PSNR = 20.1043, SSIM = 0.9038
+Batch 0, Sample 50:
+  Step (i+50): PSNR = 19.0522, SSIM = 0.8521
+Batch 0, Sample 51:
+  Step (i+50): PSNR = 11.1863, SSIM = 0.7076
+Batch 0, Sample 52:
+  Step (i+50): PSNR = 20.1487, SSIM = 0.9112
+Batch 0, Sample 53:
+  Step (i+50): PSNR = 12.9483, SSIM = 0.7084
+Batch 0, Sample 54:
+  Step (i+50): PSNR = 13.5453, SSIM = 0.8037
+Batch 0, Sample 55:
+  Step (i+50): PSNR = 14.1226, SSIM = 0.7496
+Batch 0, Sample 56:
+  Step (i+50): PSNR = 14.0691, SSIM = 0.8493
+Batch 0, Sample 57:
+  Step (i+50): PSNR = 13.5961, SSIM = 0.7210
+Batch 0, Sample 58:
+  Step (i+50): PSNR = 7.5403, SSIM = 0.5492
+Batch 0, Sample 59:
+  Step (i+50): PSNR = 17.1793, SSIM = 0.8706
+Batch 0, Sample 60:
+  Step (i+50): PSNR = 21.2933, SSIM = 0.8810
+Batch 0, Sample 61:
+  Step (i+50): PSNR = 18.9756, SSIM = 0.8587
+Batch 0, Sample 62:
+  Step (i+50): PSNR = 8.6117, SSIM = 0.6648
+Batch 0, Sample 63:
+  Step (i+50): PSNR = 24.4109, SSIM = 0.9642
+Batch 0, Sample 64:
+  Step (i+50): PSNR = 33.4531, SSIM = 0.9689
+Batch 0, Sample 65:
+  Step (i+50): PSNR = 10.1870, SSIM = 0.7256
+Batch 0, Sample 66:
+  Step (i+50): PSNR = 31.2920, SSIM = 0.9622
+Batch 0, Sample 67:
+  Step (i+50): PSNR = 10.0456, SSIM = 0.7359
+Batch 0, Sample 68:
+  Step (i+50): PSNR = 16.6510, SSIM = 0.8939
+Batch 0, Sample 69:
+  Step (i+50): PSNR = 20.4748, SSIM = 0.8901
+Batch 0, Sample 70:
+  Step (i+50): PSNR = 13.0081, SSIM = 0.7360
+Batch 0, Sample 71:
+  Step (i+50): PSNR = 27.4864, SSIM = 0.9373
+
+Summary of metrics:
+  Step (i+50): PSNR = 17.4926, SSIM = 0.8101
+
+Summary Final Frame Metrics:
+  Final PSNR (i+50): 17.4926
+  Final SSIM (i+50): 0.8101
+
+Performance Statistics:
+Total generation time: 15.03 seconds
+Average time per batch: 15.03 seconds
+Average time per sample: 0.21 seconds
+Average time per step: 0.21 seconds

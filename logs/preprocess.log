@@ -1,0 +1,619 @@
+--------------------------------------------------
+Starting Frame Deduplication Process
+  Input Directory : data/
+  Output Directory: data2/
+  PSNR Threshold  : >= 35.0
+  SSIM Threshold  : >= 0.98
+--------------------------------------------------
+Found 3 potential task directories.
+Processing Tasks:   0%|          | 0/3 [00:00<?, ?task/s]
+  Episodes in block_hammer_beat_D435:   0%|          | 0/100 [00:00<?, ?ep/s][A    Episode episode0: Kept 133 / 211 frames.
+
+  Episodes in block_hammer_beat_D435:   1%|          | 1/100 [00:02<03:48,  2.30s/ep][A/root/miniconda/envs/ip2p/lib/python3.8/site-packages/skimage/metrics/simple_metrics.py:163: RuntimeWarning: divide by zero encountered in scalar divide
+  return 10 * np.log10((data_range ** 2) / err)
+    Episode episode1: Kept 145 / 211 frames.
+
+  Episodes in block_hammer_beat_D435:   2%|▏         | 2/100 [00:05<04:14,  2.59s/ep][A    Episode episode2: Kept 144 / 206 frames.
+
+  Episodes in block_hammer_beat_D435:   3%|▎         | 3/100 [00:07<04:03,  2.51s/ep][A    Episode episode3: Kept 148 / 212 frames.
+
+  Episodes in block_hammer_beat_D435:   4%|▍         | 4/100 [00:09<03:56,  2.46s/ep][A    Episode episode4: Kept 135 / 212 frames.
+
+  Episodes in block_hammer_beat_D435:   5%|▌         | 5/100 [00:12<03:50,  2.43s/ep][A    Episode episode5: Kept 147 / 213 frames.
+
+  Episodes in block_hammer_beat_D435:   6%|▌         | 6/100 [00:14<03:38,  2.32s/ep][A    Episode episode6: Kept 137 / 214 frames.
+
+  Episodes in block_hammer_beat_D435:   7%|▋         | 7/100 [00:16<03:29,  2.25s/ep][A    Episode episode7: Kept 146 / 211 frames.
+
+  Episodes in block_hammer_beat_D435:   8%|▊         | 8/100 [00:18<03:11,  2.08s/ep][A    Episode episode8: Kept 135 / 215 frames.
+
+  Episodes in block_hammer_beat_D435:   9%|▉         | 9/100 [00:19<02:59,  1.98s/ep][A    Episode episode9: Kept 149 / 215 frames.
+
+  Episodes in block_hammer_beat_D435:  10%|█         | 10/100 [00:21<02:50,  1.89s/ep][A    Episode episode10: Kept 137 / 211 frames.
+
+  Episodes in block_hammer_beat_D435:  11%|█         | 11/100 [00:23<02:43,  1.83s/ep][A    Episode episode11: Kept 150 / 213 frames.
+
+  Episodes in block_hammer_beat_D435:  12%|█▏        | 12/100 [00:25<02:36,  1.78s/ep][A    Episode episode12: Kept 144 / 208 frames.
+
+  Episodes in block_hammer_beat_D435:  13%|█▎        | 13/100 [00:26<02:30,  1.73s/ep][A    Episode episode13: Kept 133 / 211 frames.
+
+  Episodes in block_hammer_beat_D435:  14%|█▍        | 14/100 [00:28<02:26,  1.70s/ep][A    Episode episode14: Kept 130 / 209 frames.
+
+  Episodes in block_hammer_beat_D435:  15%|█▌        | 15/100 [00:29<02:23,  1.68s/ep][A    Episode episode15: Kept 136 / 213 frames.
+
+  Episodes in block_hammer_beat_D435:  16%|█▌        | 16/100 [00:31<02:21,  1.68s/ep][A    Episode episode16: Kept 143 / 206 frames.
+
+  Episodes in block_hammer_beat_D435:  17%|█▋        | 17/100 [00:33<02:17,  1.65s/ep][A    Episode episode17: Kept 139 / 203 frames.
+
+  Episodes in block_hammer_beat_D435:  18%|█▊        | 18/100 [00:34<02:13,  1.62s/ep][A    Episode episode18: Kept 126 / 204 frames.
+
+  Episodes in block_hammer_beat_D435:  19%|█▉        | 19/100 [00:36<02:10,  1.62s/ep][A    Episode episode19: Kept 149 / 214 frames.
+
+  Episodes in block_hammer_beat_D435:  20%|██        | 20/100 [00:37<02:09,  1.62s/ep][A    Episode episode20: Kept 139 / 207 frames.
+
+  Episodes in block_hammer_beat_D435:  21%|██        | 21/100 [00:39<02:07,  1.62s/ep][A    Episode episode21: Kept 149 / 214 frames.
+
+  Episodes in block_hammer_beat_D435:  22%|██▏       | 22/100 [00:41<02:06,  1.62s/ep][A    Episode episode22: Kept 143 / 206 frames.
+
+  Episodes in block_hammer_beat_D435:  23%|██▎       | 23/100 [00:42<02:03,  1.61s/ep][A    Episode episode23: Kept 145 / 210 frames.
+
+  Episodes in block_hammer_beat_D435:  24%|██▍       | 24/100 [00:44<02:02,  1.61s/ep][A    Episode episode24: Kept 134 / 211 frames.
+
+  Episodes in block_hammer_beat_D435:  25%|██▌       | 25/100 [00:46<02:01,  1.62s/ep][A    Episode episode25: Kept 131 / 210 frames.
+
+  Episodes in block_hammer_beat_D435:  26%|██▌       | 26/100 [00:47<02:00,  1.63s/ep][A    Episode episode26: Kept 138 / 202 frames.
+
+  Episodes in block_hammer_beat_D435:  27%|██▋       | 27/100 [00:49<01:56,  1.60s/ep][A    Episode episode27: Kept 136 / 212 frames.
+
+  Episodes in block_hammer_beat_D435:  28%|██▊       | 28/100 [00:50<01:56,  1.62s/ep][A    Episode episode28: Kept 129 / 205 frames.
+
+  Episodes in block_hammer_beat_D435:  29%|██▉       | 29/100 [00:52<01:54,  1.61s/ep][A    Episode episode29: Kept 135 / 210 frames.
+
+  Episodes in block_hammer_beat_D435:  30%|███       | 30/100 [00:54<01:53,  1.62s/ep][A    Episode episode30: Kept 123 / 197 frames.
+
+  Episodes in block_hammer_beat_D435:  31%|███       | 31/100 [00:55<01:49,  1.59s/ep][A    Episode episode31: Kept 156 / 224 frames.
+
+  Episodes in block_hammer_beat_D435:  32%|███▏      | 32/100 [00:57<01:50,  1.63s/ep][A    Episode episode32: Kept 135 / 213 frames.
+
+  Episodes in block_hammer_beat_D435:  33%|███▎      | 33/100 [00:59<01:49,  1.64s/ep][A    Episode episode33: Kept 145 / 208 frames.
+
+  Episodes in block_hammer_beat_D435:  34%|███▍      | 34/100 [01:00<01:47,  1.63s/ep][A    Episode episode34: Kept 149 / 214 frames.
+
+  Episodes in block_hammer_beat_D435:  35%|███▌      | 35/100 [01:02<01:45,  1.63s/ep][A    Episode episode35: Kept 124 / 199 frames.
+
+  Episodes in block_hammer_beat_D435:  36%|███▌      | 36/100 [01:03<01:42,  1.60s/ep][A    Episode episode36: Kept 129 / 205 frames.
+
+  Episodes in block_hammer_beat_D435:  37%|███▋      | 37/100 [01:05<01:40,  1.60s/ep][A    Episode episode37: Kept 135 / 212 frames.
+
+  Episodes in block_hammer_beat_D435:  38%|███▊      | 38/100 [01:07<01:40,  1.62s/ep][A    Episode episode38: Kept 193 / 298 frames.
+
+  Episodes in block_hammer_beat_D435:  39%|███▉      | 39/100 [01:09<01:50,  1.81s/ep][A    Episode episode39: Kept 136 / 213 frames.
+
+  Episodes in block_hammer_beat_D435:  40%|████      | 40/100 [01:10<01:45,  1.76s/ep][A    Episode episode40: Kept 129 / 206 frames.
+
+  Episodes in block_hammer_beat_D435:  41%|████      | 41/100 [01:12<01:41,  1.71s/ep][A    Episode episode41: Kept 147 / 210 frames.
+
+  Episodes in block_hammer_beat_D435:  42%|████▏     | 42/100 [01:14<01:37,  1.68s/ep][A    Episode episode42: Kept 146 / 209 frames.
+
+  Episodes in block_hammer_beat_D435:  43%|████▎     | 43/100 [01:15<01:34,  1.66s/ep][A    Episode episode43: Kept 136 / 212 frames.
+
+  Episodes in block_hammer_beat_D435:  44%|████▍     | 44/100 [01:17<01:32,  1.66s/ep][A    Episode episode44: Kept 137 / 216 frames.
+
+  Episodes in block_hammer_beat_D435:  45%|████▌     | 45/100 [01:19<01:31,  1.66s/ep][A    Episode episode45: Kept 129 / 206 frames.
+
+  Episodes in block_hammer_beat_D435:  46%|████▌     | 46/100 [01:20<01:28,  1.65s/ep][A    Episode episode46: Kept 150 / 217 frames.
+
+  Episodes in block_hammer_beat_D435:  47%|████▋     | 47/100 [01:22<01:27,  1.65s/ep][A    Episode episode47: Kept 152 / 218 frames.
+
+  Episodes in block_hammer_beat_D435:  48%|████▊     | 48/100 [01:24<01:26,  1.65s/ep][A    Episode episode48: Kept 141 / 204 frames.
+
+  Episodes in block_hammer_beat_D435:  49%|████▉     | 49/100 [01:25<01:22,  1.63s/ep][A    Episode episode49: Kept 151 / 216 frames.
+
+  Episodes in block_hammer_beat_D435:  50%|█████     | 50/100 [01:27<01:21,  1.63s/ep][A    Episode episode50: Kept 133 / 210 frames.
+
+  Episodes in block_hammer_beat_D435:  51%|█████     | 51/100 [01:28<01:20,  1.63s/ep][A    Episode episode51: Kept 138 / 212 frames.
+
+  Episodes in block_hammer_beat_D435:  52%|█████▏    | 52/100 [01:30<01:18,  1.64s/ep][A    Episode episode52: Kept 132 / 207 frames.
+
+  Episodes in block_hammer_beat_D435:  53%|█████▎    | 53/100 [01:32<01:16,  1.63s/ep][A    Episode episode53: Kept 130 / 206 frames.
+
+  Episodes in block_hammer_beat_D435:  54%|█████▍    | 54/100 [01:33<01:14,  1.62s/ep][A    Episode episode54: Kept 150 / 218 frames.
+
+  Episodes in block_hammer_beat_D435:  55%|█████▌    | 55/100 [01:35<01:13,  1.64s/ep][A    Episode episode55: Kept 139 / 216 frames.
+
+  Episodes in block_hammer_beat_D435:  56%|█████▌    | 56/100 [01:37<01:12,  1.65s/ep][A    Episode episode56: Kept 150 / 216 frames.
+
+  Episodes in block_hammer_beat_D435:  57%|█████▋    | 57/100 [01:38<01:10,  1.64s/ep][A    Episode episode57: Kept 137 / 204 frames.
+
+  Episodes in block_hammer_beat_D435:  58%|█████▊    | 58/100 [01:40<01:08,  1.63s/ep][A    Episode episode58: Kept 139 / 217 frames.
+
+  Episodes in block_hammer_beat_D435:  59%|█████▉    | 59/100 [01:42<01:08,  1.67s/ep][A    Episode episode59: Kept 143 / 206 frames.
+
+  Episodes in block_hammer_beat_D435:  60%|██████    | 60/100 [01:43<01:06,  1.67s/ep][A    Episode episode60: Kept 135 / 210 frames.
+
+  Episodes in block_hammer_beat_D435:  61%|██████    | 61/100 [01:45<01:05,  1.69s/ep][A    Episode episode61: Kept 148 / 213 frames.
+
+  Episodes in block_hammer_beat_D435:  62%|██████▏   | 62/100 [01:47<01:04,  1.69s/ep][A    Episode episode62: Kept 141 / 204 frames.
+
+  Episodes in block_hammer_beat_D435:  63%|██████▎   | 63/100 [01:48<01:01,  1.66s/ep][A    Episode episode63: Kept 137 / 205 frames.
+
+  Episodes in block_hammer_beat_D435:  64%|██████▍   | 64/100 [01:50<00:59,  1.66s/ep][A    Episode episode64: Kept 149 / 212 frames.
+
+  Episodes in block_hammer_beat_D435:  65%|██████▌   | 65/100 [01:52<00:58,  1.67s/ep][A    Episode episode65: Kept 149 / 213 frames.
+
+  Episodes in block_hammer_beat_D435:  66%|██████▌   | 66/100 [01:53<00:56,  1.67s/ep][A    Episode episode66: Kept 149 / 215 frames.
+
+  Episodes in block_hammer_beat_D435:  67%|██████▋   | 67/100 [01:55<00:55,  1.67s/ep][A    Episode episode67: Kept 147 / 210 frames.
+
+  Episodes in block_hammer_beat_D435:  68%|██████▊   | 68/100 [01:57<00:52,  1.65s/ep][A    Episode episode68: Kept 144 / 211 frames.
+
+  Episodes in block_hammer_beat_D435:  69%|██████▉   | 69/100 [01:58<00:50,  1.64s/ep][A    Episode episode69: Kept 133 / 211 frames.
+
+  Episodes in block_hammer_beat_D435:  70%|███████   | 70/100 [02:00<00:49,  1.65s/ep][A    Episode episode70: Kept 145 / 208 frames.
+
+  Episodes in block_hammer_beat_D435:  71%|███████   | 71/100 [02:02<00:47,  1.65s/ep][A    Episode episode71: Kept 145 / 210 frames.
+
+  Episodes in block_hammer_beat_D435:  72%|███████▏  | 72/100 [02:03<00:46,  1.66s/ep][A    Episode episode72: Kept 126 / 203 frames.
+
+  Episodes in block_hammer_beat_D435:  73%|███████▎  | 73/100 [02:05<00:44,  1.66s/ep][A    Episode episode73: Kept 145 / 213 frames.
+
+  Episodes in block_hammer_beat_D435:  74%|███████▍  | 74/100 [02:07<00:43,  1.66s/ep][A    Episode episode74: Kept 146 / 210 frames.
+
+  Episodes in block_hammer_beat_D435:  75%|███████▌  | 75/100 [02:08<00:41,  1.66s/ep][A    Episode episode75: Kept 145 / 213 frames.
+
+  Episodes in block_hammer_beat_D435:  76%|███████▌  | 76/100 [02:10<00:39,  1.66s/ep][A    Episode episode76: Kept 134 / 212 frames.
+
+  Episodes in block_hammer_beat_D435:  77%|███████▋  | 77/100 [02:12<00:38,  1.68s/ep][A    Episode episode77: Kept 151 / 216 frames.
+
+  Episodes in block_hammer_beat_D435:  78%|███████▊  | 78/100 [02:13<00:37,  1.69s/ep][A    Episode episode78: Kept 132 / 213 frames.
+
+  Episodes in block_hammer_beat_D435:  79%|███████▉  | 79/100 [02:15<00:35,  1.69s/ep][A    Episode episode79: Kept 144 / 207 frames.
+
+  Episodes in block_hammer_beat_D435:  80%|████████  | 80/100 [02:17<00:34,  1.70s/ep][A    Episode episode80: Kept 137 / 199 frames.
+
+  Episodes in block_hammer_beat_D435:  81%|████████  | 81/100 [02:18<00:32,  1.71s/ep][A    Episode episode81: Kept 140 / 204 frames.
+
+  Episodes in block_hammer_beat_D435:  82%|████████▏ | 82/100 [02:20<00:30,  1.70s/ep][A    Episode episode82: Kept 143 / 208 frames.
+
+  Episodes in block_hammer_beat_D435:  83%|████████▎ | 83/100 [02:23<00:33,  1.97s/ep][A    Episode episode83: Kept 149 / 216 frames.
+
+  Episodes in block_hammer_beat_D435:  84%|████████▍ | 84/100 [02:26<00:36,  2.25s/ep][A    Episode episode84: Kept 124 / 202 frames.
+
+  Episodes in block_hammer_beat_D435:  85%|████████▌ | 85/100 [02:27<00:31,  2.08s/ep][A    Episode episode85: Kept 146 / 209 frames.
+
+  Episodes in block_hammer_beat_D435:  86%|████████▌ | 86/100 [02:29<00:27,  1.95s/ep][A    Episode episode86: Kept 126 / 204 frames.
+
+  Episodes in block_hammer_beat_D435:  87%|████████▋ | 87/100 [02:31<00:24,  1.86s/ep][A    Episode episode87: Kept 144 / 211 frames.
+
+  Episodes in block_hammer_beat_D435:  88%|████████▊ | 88/100 [02:32<00:21,  1.80s/ep][A    Episode episode88: Kept 150 / 214 frames.
+
+  Episodes in block_hammer_beat_D435:  89%|████████▉ | 89/100 [02:34<00:19,  1.78s/ep][A    Episode episode89: Kept 144 / 208 frames.
+
+  Episodes in block_hammer_beat_D435:  90%|█████████ | 90/100 [02:36<00:17,  1.74s/ep][A    Episode episode90: Kept 132 / 209 frames.
+
+  Episodes in block_hammer_beat_D435:  91%|█████████ | 91/100 [02:37<00:15,  1.72s/ep][A    Episode episode91: Kept 132 / 209 frames.
+
+  Episodes in block_hammer_beat_D435:  92%|█████████▏| 92/100 [02:39<00:13,  1.71s/ep][A    Episode episode92: Kept 130 / 206 frames.
+
+  Episodes in block_hammer_beat_D435:  93%|█████████▎| 93/100 [02:41<00:11,  1.70s/ep][A    Episode episode93: Kept 146 / 211 frames.
+
+  Episodes in block_hammer_beat_D435:  94%|█████████▍| 94/100 [02:42<00:10,  1.68s/ep][A    Episode episode94: Kept 150 / 216 frames.
+
+  Episodes in block_hammer_beat_D435:  95%|█████████▌| 95/100 [02:44<00:08,  1.67s/ep][A    Episode episode95: Kept 136 / 214 frames.
+
+  Episodes in block_hammer_beat_D435:  96%|█████████▌| 96/100 [02:46<00:07,  1.82s/ep][A    Episode episode96: Kept 129 / 205 frames.
+
+  Episodes in block_hammer_beat_D435:  97%|█████████▋| 97/100 [02:48<00:05,  1.79s/ep][A    Episode episode97: Kept 128 / 203 frames.
+
+  Episodes in block_hammer_beat_D435:  98%|█████████▊| 98/100 [02:49<00:03,  1.73s/ep][A    Episode episode98: Kept 134 / 212 frames.
+
+  Episodes in block_hammer_beat_D435:  99%|█████████▉| 99/100 [02:51<00:01,  1.75s/ep][A    Episode episode99: Kept 150 / 218 frames.
+
+  Episodes in block_hammer_beat_D435: 100%|██████████| 100/100 [02:53<00:00,  1.80s/ep][A
+                                                                                       [AProcessing Tasks:  33%|███▎      | 1/3 [02:53<05:47, 173.67s/task]
+  Episodes in block_handover_D435:   0%|          | 0/100 [00:00<?, ?ep/s][A    Episode episode0: Kept 261 / 421 frames.
+
+  Episodes in block_handover_D435:   1%|          | 1/100 [00:03<05:54,  3.58s/ep][A    Episode episode1: Kept 258 / 416 frames.
+
+  Episodes in block_handover_D435:   2%|▏         | 2/100 [00:06<05:33,  3.41s/ep][A    Episode episode2: Kept 257 / 411 frames.
+
+  Episodes in block_handover_D435:   3%|▎         | 3/100 [00:10<05:23,  3.34s/ep][A    Episode episode3: Kept 260 / 421 frames.
+
+  Episodes in block_handover_D435:   4%|▍         | 4/100 [00:13<05:20,  3.34s/ep][A    Episode episode4: Kept 265 / 417 frames.
+
+  Episodes in block_handover_D435:   5%|▌         | 5/100 [00:16<05:16,  3.34s/ep][A    Episode episode5: Kept 258 / 426 frames.
+
+  Episodes in block_handover_D435:   6%|▌         | 6/100 [00:20<05:14,  3.35s/ep][A    Episode episode6: Kept 264 / 409 frames.
+
+  Episodes in block_handover_D435:   7%|▋         | 7/100 [00:23<05:08,  3.31s/ep][A    Episode episode7: Kept 252 / 419 frames.
+
+  Episodes in block_handover_D435:   8%|▊         | 8/100 [00:26<05:04,  3.31s/ep][A    Episode episode8: Kept 266 / 430 frames.
+
+  Episodes in block_handover_D435:   9%|▉         | 9/100 [00:30<05:08,  3.39s/ep][A    Episode episode9: Kept 249 / 411 frames.
+
+  Episodes in block_handover_D435:  10%|█         | 10/100 [00:33<05:03,  3.38s/ep][A    Episode episode10: Kept 257 / 405 frames.
+
+  Episodes in block_handover_D435:  11%|█         | 11/100 [00:37<05:03,  3.41s/ep][A    Episode episode11: Kept 248 / 413 frames.
+
+  Episodes in block_handover_D435:  12%|█▏        | 12/100 [00:40<05:02,  3.43s/ep][A    Episode episode12: Kept 253 / 422 frames.
+
+  Episodes in block_handover_D435:  13%|█▎        | 13/100 [00:44<05:01,  3.47s/ep][A    Episode episode13: Kept 263 / 411 frames.
+
+  Episodes in block_handover_D435:  14%|█▍        | 14/100 [00:47<04:59,  3.48s/ep][A    Episode episode14: Kept 259 / 422 frames.
+
+  Episodes in block_handover_D435:  15%|█▌        | 15/100 [00:51<04:58,  3.51s/ep][A    Episode episode15: Kept 261 / 413 frames.
+
+  Episodes in block_handover_D435:  16%|█▌        | 16/100 [00:54<04:53,  3.50s/ep][A    Episode episode16: Kept 255 / 415 frames.
+
+  Episodes in block_handover_D435:  17%|█▋        | 17/100 [00:58<04:49,  3.49s/ep][A    Episode episode17: Kept 256 / 411 frames.
+
+  Episodes in block_handover_D435:  18%|█▊        | 18/100 [01:02<04:58,  3.63s/ep][A    Episode episode18: Kept 259 / 412 frames.
+
+  Episodes in block_handover_D435:  19%|█▉        | 19/100 [01:05<04:44,  3.52s/ep][A    Episode episode19: Kept 256 / 419 frames.
+
+  Episodes in block_handover_D435:  20%|██        | 20/100 [01:08<04:39,  3.49s/ep][A    Episode episode20: Kept 261 / 427 frames.
+
+  Episodes in block_handover_D435:  21%|██        | 21/100 [01:12<04:34,  3.47s/ep][A    Episode episode21: Kept 248 / 412 frames.
+
+  Episodes in block_handover_D435:  22%|██▏       | 22/100 [01:16<04:39,  3.59s/ep][A    Episode episode22: Kept 255 / 411 frames.
+
+  Episodes in block_handover_D435:  23%|██▎       | 23/100 [01:19<04:31,  3.53s/ep][A    Episode episode23: Kept 262 / 425 frames.
+
+  Episodes in block_handover_D435:  24%|██▍       | 24/100 [01:22<04:24,  3.48s/ep][A    Episode episode24: Kept 264 / 420 frames.
+
+  Episodes in block_handover_D435:  25%|██▌       | 25/100 [01:26<04:19,  3.46s/ep][A    Episode episode25: Kept 263 / 417 frames.
+
+  Episodes in block_handover_D435:  26%|██▌       | 26/100 [01:29<04:12,  3.42s/ep][A    Episode episode26: Kept 254 / 411 frames.
+
+  Episodes in block_handover_D435:  27%|██▋       | 27/100 [01:32<04:06,  3.38s/ep][A    Episode episode27: Kept 260 / 425 frames.
+
+  Episodes in block_handover_D435:  28%|██▊       | 28/100 [01:36<04:03,  3.38s/ep][A    Episode episode28: Kept 265 / 418 frames.
+
+  Episodes in block_handover_D435:  29%|██▉       | 29/100 [01:39<03:59,  3.37s/ep][A    Episode episode29: Kept 262 / 410 frames.
+
+  Episodes in block_handover_D435:  30%|███       | 30/100 [01:42<03:53,  3.34s/ep][A    Episode episode30: Kept 261 / 410 frames.
+
+  Episodes in block_handover_D435:  31%|███       | 31/100 [01:46<03:48,  3.32s/ep][A    Episode episode31: Kept 257 / 425 frames.
+
+  Episodes in block_handover_D435:  32%|███▏      | 32/100 [01:49<03:46,  3.33s/ep][A    Episode episode32: Kept 262 / 412 frames.
+
+  Episodes in block_handover_D435:  33%|███▎      | 33/100 [01:53<03:50,  3.44s/ep][A    Episode episode33: Kept 254 / 413 frames.
+
+  Episodes in block_handover_D435:  34%|███▍      | 34/100 [01:58<04:25,  4.02s/ep][A    Episode episode34: Kept 252 / 423 frames.
+
+  Episodes in block_handover_D435:  35%|███▌      | 35/100 [02:02<04:21,  4.03s/ep][A    Episode episode35: Kept 256 / 411 frames.
+
+  Episodes in block_handover_D435:  36%|███▌      | 36/100 [02:05<04:02,  3.80s/ep][A    Episode episode36: Kept 264 / 418 frames.
+
+  Episodes in block_handover_D435:  37%|███▋      | 37/100 [02:09<03:51,  3.68s/ep][A    Episode episode37: Kept 267 / 417 frames.
+
+  Episodes in block_handover_D435:  38%|███▊      | 38/100 [02:12<03:41,  3.57s/ep][A    Episode episode38: Kept 260 / 424 frames.
+
+  Episodes in block_handover_D435:  39%|███▉      | 39/100 [02:15<03:34,  3.52s/ep][A    Episode episode39: Kept 262 / 422 frames.
+
+  Episodes in block_handover_D435:  40%|████      | 40/100 [02:19<03:29,  3.49s/ep][A    Episode episode40: Kept 252 / 404 frames.
+
+  Episodes in block_handover_D435:  41%|████      | 41/100 [02:22<03:21,  3.42s/ep][A    Episode episode41: Kept 250 / 410 frames.
+
+  Episodes in block_handover_D435:  42%|████▏     | 42/100 [02:26<03:16,  3.39s/ep][A    Episode episode42: Kept 260 / 426 frames.
+
+  Episodes in block_handover_D435:  43%|████▎     | 43/100 [02:29<03:14,  3.42s/ep][A    Episode episode43: Kept 250 / 413 frames.
+
+  Episodes in block_handover_D435:  44%|████▍     | 44/100 [02:33<03:15,  3.50s/ep][A    Episode episode44: Kept 258 / 408 frames.
+
+  Episodes in block_handover_D435:  45%|████▌     | 45/100 [02:36<03:16,  3.58s/ep][A    Episode episode45: Kept 265 / 417 frames.
+
+  Episodes in block_handover_D435:  46%|████▌     | 46/100 [02:42<03:53,  4.32s/ep][A    Episode episode46: Kept 262 / 419 frames.
+
+  Episodes in block_handover_D435:  47%|████▋     | 47/100 [02:48<04:14,  4.81s/ep][A    Episode episode47: Kept 254 / 427 frames.
+
+  Episodes in block_handover_D435:  48%|████▊     | 48/100 [02:54<04:24,  5.08s/ep][A    Episode episode48: Kept 253 / 422 frames.
+
+  Episodes in block_handover_D435:  49%|████▉     | 49/100 [03:00<04:25,  5.21s/ep][A    Episode episode49: Kept 253 / 409 frames.
+
+  Episodes in block_handover_D435:  50%|█████     | 50/100 [03:04<04:14,  5.08s/ep][A    Episode episode50: Kept 258 / 408 frames.
+
+  Episodes in block_handover_D435:  51%|█████     | 51/100 [03:08<03:53,  4.77s/ep][A    Episode episode51: Kept 253 / 405 frames.
+
+  Episodes in block_handover_D435:  52%|█████▏    | 52/100 [03:12<03:27,  4.33s/ep][A    Episode episode52: Kept 265 / 417 frames.
+
+  Episodes in block_handover_D435:  53%|█████▎    | 53/100 [03:15<03:10,  4.06s/ep][A    Episode episode53: Kept 256 / 408 frames.
+
+  Episodes in block_handover_D435:  54%|█████▍    | 54/100 [03:20<03:21,  4.38s/ep][A    Episode episode54: Kept 257 / 427 frames.
+
+  Episodes in block_handover_D435:  55%|█████▌    | 55/100 [03:24<03:11,  4.25s/ep][A    Episode episode55: Kept 261 / 414 frames.
+
+  Episodes in block_handover_D435:  56%|█████▌    | 56/100 [03:28<02:54,  3.96s/ep][A    Episode episode56: Kept 249 / 409 frames.
+
+  Episodes in block_handover_D435:  57%|█████▋    | 57/100 [03:31<02:40,  3.73s/ep][A    Episode episode57: Kept 252 / 409 frames.
+
+  Episodes in block_handover_D435:  58%|█████▊    | 58/100 [03:34<02:30,  3.57s/ep][A    Episode episode58: Kept 262 / 414 frames.
+
+  Episodes in block_handover_D435:  59%|█████▉    | 59/100 [03:37<02:22,  3.48s/ep][A    Episode episode59: Kept 245 / 408 frames.
+
+  Episodes in block_handover_D435:  60%|██████    | 60/100 [03:40<02:15,  3.39s/ep][A    Episode episode60: Kept 262 / 413 frames.
+
+  Episodes in block_handover_D435:  61%|██████    | 61/100 [03:44<02:10,  3.35s/ep][A    Episode episode61: Kept 252 / 411 frames.
+
+  Episodes in block_handover_D435:  62%|██████▏   | 62/100 [03:47<02:05,  3.31s/ep][A    Episode episode62: Kept 256 / 409 frames.
+
+  Episodes in block_handover_D435:  63%|██████▎   | 63/100 [03:50<02:01,  3.28s/ep][A    Episode episode63: Kept 259 / 417 frames.
+
+  Episodes in block_handover_D435:  64%|██████▍   | 64/100 [03:53<01:58,  3.28s/ep][A    Episode episode64: Kept 248 / 408 frames.
+
+  Episodes in block_handover_D435:  65%|██████▌   | 65/100 [03:57<01:53,  3.25s/ep][A    Episode episode65: Kept 245 / 406 frames.
+
+  Episodes in block_handover_D435:  66%|██████▌   | 66/100 [04:00<01:49,  3.23s/ep][A    Episode episode66: Kept 261 / 422 frames.
+
+  Episodes in block_handover_D435:  67%|██████▋   | 67/100 [04:03<01:47,  3.25s/ep][A    Episode episode67: Kept 251 / 410 frames.
+
+  Episodes in block_handover_D435:  68%|██████▊   | 68/100 [04:06<01:43,  3.24s/ep][A    Episode episode68: Kept 265 / 428 frames.
+
+  Episodes in block_handover_D435:  69%|██████▉   | 69/100 [04:10<01:41,  3.28s/ep][A    Episode episode69: Kept 245 / 408 frames.
+
+  Episodes in block_handover_D435:  70%|███████   | 70/100 [04:13<01:37,  3.26s/ep][A    Episode episode70: Kept 252 / 415 frames.
+
+  Episodes in block_handover_D435:  71%|███████   | 71/100 [04:16<01:34,  3.25s/ep][A    Episode episode71: Kept 262 / 416 frames.
+
+  Episodes in block_handover_D435:  72%|███████▏  | 72/100 [04:19<01:31,  3.26s/ep][A    Episode episode72: Kept 254 / 419 frames.
+
+  Episodes in block_handover_D435:  73%|███████▎  | 73/100 [04:23<01:28,  3.26s/ep][A    Episode episode73: Kept 255 / 407 frames.
+
+  Episodes in block_handover_D435:  74%|███████▍  | 74/100 [04:26<01:24,  3.24s/ep][A    Episode episode74: Kept 259 / 424 frames.
+
+  Episodes in block_handover_D435:  75%|███████▌  | 75/100 [04:30<01:25,  3.41s/ep][A    Episode episode75: Kept 261 / 418 frames.
+
+  Episodes in block_handover_D435:  76%|███████▌  | 76/100 [04:34<01:29,  3.74s/ep][A    Episode episode76: Kept 251 / 415 frames.
+
+  Episodes in block_handover_D435:  77%|███████▋  | 77/100 [04:40<01:40,  4.37s/ep][A    Episode episode77: Kept 256 / 411 frames.
+
+  Episodes in block_handover_D435:  78%|███████▊  | 78/100 [04:45<01:42,  4.67s/ep][A    Episode episode78: Kept 262 / 421 frames.
+
+  Episodes in block_handover_D435:  79%|███████▉  | 79/100 [04:49<01:32,  4.41s/ep][A    Episode episode79: Kept 250 / 408 frames.
+
+  Episodes in block_handover_D435:  80%|████████  | 80/100 [04:53<01:22,  4.11s/ep][A    Episode episode80: Kept 253 / 415 frames.
+
+  Episodes in block_handover_D435:  81%|████████  | 81/100 [04:57<01:19,  4.21s/ep][A    Episode episode81: Kept 253 / 415 frames.
+
+  Episodes in block_handover_D435:  82%|████████▏ | 82/100 [05:01<01:15,  4.22s/ep][A    Episode episode82: Kept 252 / 409 frames.
+
+  Episodes in block_handover_D435:  83%|████████▎ | 83/100 [05:05<01:11,  4.20s/ep][A    Episode episode83: Kept 260 / 411 frames.
+
+  Episodes in block_handover_D435:  84%|████████▍ | 84/100 [05:09<01:06,  4.17s/ep][A    Episode episode84: Kept 250 / 407 frames.
+
+  Episodes in block_handover_D435:  85%|████████▌ | 85/100 [05:14<01:04,  4.27s/ep][A    Episode episode85: Kept 263 / 429 frames.
+
+  Episodes in block_handover_D435:  86%|████████▌ | 86/100 [05:19<01:02,  4.49s/ep][A    Episode episode86: Kept 261 / 412 frames.
+
+  Episodes in block_handover_D435:  87%|████████▋ | 87/100 [05:25<01:05,  5.01s/ep][A    Episode episode87: Kept 259 / 412 frames.
+
+  Episodes in block_handover_D435:  88%|████████▊ | 88/100 [05:31<01:03,  5.27s/ep][A    Episode episode88: Kept 248 / 405 frames.
+
+  Episodes in block_handover_D435:  89%|████████▉ | 89/100 [05:36<00:57,  5.20s/ep][A    Episode episode89: Kept 252 / 415 frames.
+
+  Episodes in block_handover_D435:  90%|█████████ | 90/100 [05:40<00:46,  4.68s/ep][A    Episode episode90: Kept 265 / 423 frames.
+
+  Episodes in block_handover_D435:  91%|█████████ | 91/100 [05:44<00:40,  4.55s/ep][A    Episode episode91: Kept 263 / 419 frames.
+
+  Episodes in block_handover_D435:  92%|█████████▏| 92/100 [05:48<00:35,  4.50s/ep][A    Episode episode92: Kept 266 / 422 frames.
+
+  Episodes in block_handover_D435:  93%|█████████▎| 93/100 [05:52<00:29,  4.15s/ep][A    Episode episode93: Kept 251 / 407 frames.
+
+  Episodes in block_handover_D435:  94%|█████████▍| 94/100 [05:55<00:23,  3.88s/ep][A    Episode episode94: Kept 254 / 429 frames.
+
+  Episodes in block_handover_D435:  95%|█████████▌| 95/100 [05:58<00:18,  3.73s/ep][A    Episode episode95: Kept 265 / 430 frames.
+
+  Episodes in block_handover_D435:  96%|█████████▌| 96/100 [06:02<00:14,  3.64s/ep][A    Episode episode96: Kept 266 / 417 frames.
+
+  Episodes in block_handover_D435:  97%|█████████▋| 97/100 [06:05<00:10,  3.54s/ep][A    Episode episode97: Kept 259 / 412 frames.
+
+  Episodes in block_handover_D435:  98%|█████████▊| 98/100 [06:08<00:06,  3.46s/ep][A    Episode episode98: Kept 257 / 413 frames.
+
+  Episodes in block_handover_D435:  99%|█████████▉| 99/100 [06:11<00:03,  3.40s/ep][A    Episode episode99: Kept 262 / 413 frames.
+
+  Episodes in block_handover_D435: 100%|██████████| 100/100 [06:16<00:00,  3.71s/ep][A
+                                                                                    [AProcessing Tasks:  67%|██████▋   | 2/3 [09:10<04:52, 292.91s/task]
+  Episodes in blocks_stack_easy_D435:   0%|          | 0/100 [00:00<?, ?ep/s][A    Episode episode0: Kept 248 / 420 frames.
+
+  Episodes in blocks_stack_easy_D435:   1%|          | 1/100 [00:03<05:52,  3.56s/ep][A    Episode episode1: Kept 284 / 436 frames.
+
+  Episodes in blocks_stack_easy_D435:   2%|▏         | 2/100 [00:07<05:42,  3.49s/ep][A    Episode episode2: Kept 288 / 436 frames.
+
+  Episodes in blocks_stack_easy_D435:   3%|▎         | 3/100 [00:10<05:37,  3.48s/ep][A    Episode episode3: Kept 283 / 428 frames.
+
+  Episodes in blocks_stack_easy_D435:   4%|▍         | 4/100 [00:13<05:30,  3.44s/ep][A    Episode episode4: Kept 264 / 450 frames.
+
+  Episodes in blocks_stack_easy_D435:   5%|▌         | 5/100 [00:17<05:30,  3.48s/ep][A    Episode episode5: Kept 286 / 446 frames.
+
+  Episodes in blocks_stack_easy_D435:   6%|▌         | 6/100 [00:20<05:28,  3.50s/ep][A    Episode episode6: Kept 270 / 440 frames.
+
+  Episodes in blocks_stack_easy_D435:   7%|▋         | 7/100 [00:24<05:25,  3.50s/ep][A    Episode episode7: Kept 291 / 447 frames.
+
+  Episodes in blocks_stack_easy_D435:   8%|▊         | 8/100 [00:27<05:23,  3.52s/ep][A    Episode episode8: Kept 295 / 466 frames.
+
+  Episodes in blocks_stack_easy_D435:   9%|▉         | 9/100 [00:31<05:25,  3.58s/ep][A    Episode episode9: Kept 280 / 433 frames.
+
+  Episodes in blocks_stack_easy_D435:  10%|█         | 10/100 [00:35<05:18,  3.54s/ep][A    Episode episode10: Kept 275 / 433 frames.
+
+  Episodes in blocks_stack_easy_D435:  11%|█         | 11/100 [00:38<05:09,  3.48s/ep][A    Episode episode11: Kept 264 / 417 frames.
+
+  Episodes in blocks_stack_easy_D435:  12%|█▏        | 12/100 [00:41<04:59,  3.41s/ep][A    Episode episode12: Kept 291 / 440 frames.
+
+  Episodes in blocks_stack_easy_D435:  13%|█▎        | 13/100 [00:45<04:59,  3.44s/ep][A    Episode episode13: Kept 273 / 430 frames.
+
+  Episodes in blocks_stack_easy_D435:  14%|█▍        | 14/100 [00:48<04:56,  3.44s/ep][A    Episode episode14: Kept 282 / 440 frames.
+
+  Episodes in blocks_stack_easy_D435:  15%|█▌        | 15/100 [00:52<04:53,  3.45s/ep][A    Episode episode15: Kept 272 / 425 frames.
+
+  Episodes in blocks_stack_easy_D435:  16%|█▌        | 16/100 [00:55<04:47,  3.42s/ep][A    Episode episode16: Kept 285 / 440 frames.
+
+  Episodes in blocks_stack_easy_D435:  17%|█▋        | 17/100 [00:58<04:44,  3.42s/ep][A    Episode episode17: Kept 278 / 438 frames.
+
+  Episodes in blocks_stack_easy_D435:  18%|█▊        | 18/100 [01:02<04:41,  3.44s/ep][A    Episode episode18: Kept 279 / 439 frames.
+
+  Episodes in blocks_stack_easy_D435:  19%|█▉        | 19/100 [01:06<04:43,  3.50s/ep][A    Episode episode19: Kept 286 / 445 frames.
+
+  Episodes in blocks_stack_easy_D435:  20%|██        | 20/100 [01:12<05:55,  4.44s/ep][A    Episode episode20: Kept 281 / 443 frames.
+
+  Episodes in blocks_stack_easy_D435:  21%|██        | 21/100 [01:19<06:42,  5.10s/ep][A    Episode episode21: Kept 285 / 435 frames.
+
+  Episodes in blocks_stack_easy_D435:  22%|██▏       | 22/100 [01:24<06:33,  5.05s/ep][A    Episode episode22: Kept 285 / 431 frames.
+
+  Episodes in blocks_stack_easy_D435:  23%|██▎       | 23/100 [01:28<06:03,  4.72s/ep][A    Episode episode23: Kept 291 / 451 frames.
+
+  Episodes in blocks_stack_easy_D435:  24%|██▍       | 24/100 [01:31<05:30,  4.35s/ep][A    Episode episode24: Kept 273 / 454 frames.
+
+  Episodes in blocks_stack_easy_D435:  25%|██▌       | 25/100 [01:35<05:08,  4.12s/ep][A    Episode episode25: Kept 271 / 436 frames.
+
+  Episodes in blocks_stack_easy_D435:  26%|██▌       | 26/100 [01:38<04:48,  3.90s/ep][A    Episode episode26: Kept 281 / 449 frames.
+
+  Episodes in blocks_stack_easy_D435:  27%|██▋       | 27/100 [01:42<04:35,  3.77s/ep][A    Episode episode27: Kept 290 / 445 frames.
+
+  Episodes in blocks_stack_easy_D435:  28%|██▊       | 28/100 [01:45<04:24,  3.68s/ep][A    Episode episode28: Kept 298 / 445 frames.
+
+  Episodes in blocks_stack_easy_D435:  29%|██▉       | 29/100 [01:49<04:16,  3.62s/ep][A    Episode episode29: Kept 250 / 416 frames.
+
+  Episodes in blocks_stack_easy_D435:  30%|███       | 30/100 [01:52<04:06,  3.52s/ep][A    Episode episode30: Kept 260 / 435 frames.
+
+  Episodes in blocks_stack_easy_D435:  31%|███       | 31/100 [01:55<03:59,  3.47s/ep][A    Episode episode31: Kept 286 / 441 frames.
+
+  Episodes in blocks_stack_easy_D435:  32%|███▏      | 32/100 [01:59<03:54,  3.45s/ep][A    Episode episode32: Kept 274 / 439 frames.
+
+  Episodes in blocks_stack_easy_D435:  33%|███▎      | 33/100 [02:02<03:49,  3.43s/ep][A    Episode episode33: Kept 286 / 445 frames.
+
+  Episodes in blocks_stack_easy_D435:  34%|███▍      | 34/100 [02:05<03:46,  3.43s/ep][A    Episode episode34: Kept 280 / 429 frames.
+
+  Episodes in blocks_stack_easy_D435:  35%|███▌      | 35/100 [02:09<03:42,  3.43s/ep][A    Episode episode35: Kept 273 / 446 frames.
+
+  Episodes in blocks_stack_easy_D435:  36%|███▌      | 36/100 [02:14<04:03,  3.80s/ep][A    Episode episode36: Kept 280 / 435 frames.
+
+  Episodes in blocks_stack_easy_D435:  37%|███▋      | 37/100 [02:19<04:26,  4.24s/ep][A    Episode episode37: Kept 275 / 439 frames.
+
+  Episodes in blocks_stack_easy_D435:  38%|███▊      | 38/100 [02:24<04:34,  4.43s/ep][A    Episode episode38: Kept 288 / 437 frames.
+
+  Episodes in blocks_stack_easy_D435:  39%|███▉      | 39/100 [02:28<04:20,  4.27s/ep][A    Episode episode39: Kept 267 / 437 frames.
+
+  Episodes in blocks_stack_easy_D435:  40%|████      | 40/100 [02:31<04:01,  4.03s/ep][A    Episode episode40: Kept 284 / 437 frames.
+
+  Episodes in blocks_stack_easy_D435:  41%|████      | 41/100 [02:34<03:45,  3.82s/ep][A    Episode episode41: Kept 278 / 439 frames.
+
+  Episodes in blocks_stack_easy_D435:  42%|████▏     | 42/100 [02:38<03:34,  3.69s/ep][A    Episode episode42: Kept 284 / 442 frames.
+
+  Episodes in blocks_stack_easy_D435:  43%|████▎     | 43/100 [02:41<03:26,  3.61s/ep][A    Episode episode43: Kept 275 / 434 frames.
+
+  Episodes in blocks_stack_easy_D435:  44%|████▍     | 44/100 [02:45<03:18,  3.54s/ep][A    Episode episode44: Kept 270 / 439 frames.
+
+  Episodes in blocks_stack_easy_D435:  45%|████▌     | 45/100 [02:48<03:11,  3.48s/ep][A    Episode episode45: Kept 280 / 441 frames.
+
+  Episodes in blocks_stack_easy_D435:  46%|████▌     | 46/100 [02:51<03:07,  3.47s/ep][A    Episode episode46: Kept 282 / 434 frames.
+
+  Episodes in blocks_stack_easy_D435:  47%|████▋     | 47/100 [02:55<03:01,  3.43s/ep][A    Episode episode47: Kept 293 / 457 frames.
+
+  Episodes in blocks_stack_easy_D435:  48%|████▊     | 48/100 [02:58<03:00,  3.47s/ep][A    Episode episode48: Kept 278 / 434 frames.
+
+  Episodes in blocks_stack_easy_D435:  49%|████▉     | 49/100 [03:02<02:55,  3.45s/ep][A    Episode episode49: Kept 283 / 451 frames.
+
+  Episodes in blocks_stack_easy_D435:  50%|█████     | 50/100 [03:05<02:52,  3.45s/ep][A    Episode episode50: Kept 282 / 434 frames.
+
+  Episodes in blocks_stack_easy_D435:  51%|█████     | 51/100 [03:09<02:48,  3.45s/ep][A    Episode episode51: Kept 268 / 427 frames.
+
+  Episodes in blocks_stack_easy_D435:  52%|█████▏    | 52/100 [03:12<02:44,  3.42s/ep][A    Episode episode52: Kept 274 / 441 frames.
+
+  Episodes in blocks_stack_easy_D435:  53%|█████▎    | 53/100 [03:15<02:40,  3.42s/ep][A    Episode episode53: Kept 281 / 438 frames.
+
+  Episodes in blocks_stack_easy_D435:  54%|█████▍    | 54/100 [03:19<02:37,  3.41s/ep][A    Episode episode54: Kept 294 / 444 frames.
+
+  Episodes in blocks_stack_easy_D435:  55%|█████▌    | 55/100 [03:22<02:34,  3.43s/ep][A    Episode episode55: Kept 256 / 428 frames.
+
+  Episodes in blocks_stack_easy_D435:  56%|█████▌    | 56/100 [03:26<02:29,  3.40s/ep][A    Episode episode56: Kept 283 / 432 frames.
+
+  Episodes in blocks_stack_easy_D435:  57%|█████▋    | 57/100 [03:29<02:25,  3.39s/ep][A    Episode episode57: Kept 269 / 421 frames.
+
+  Episodes in blocks_stack_easy_D435:  58%|█████▊    | 58/100 [03:32<02:20,  3.34s/ep][A    Episode episode58: Kept 262 / 430 frames.
+
+  Episodes in blocks_stack_easy_D435:  59%|█████▉    | 59/100 [03:35<02:16,  3.32s/ep][A    Episode episode59: Kept 266 / 428 frames.
+
+  Episodes in blocks_stack_easy_D435:  60%|██████    | 60/100 [03:39<02:12,  3.31s/ep][A    Episode episode60: Kept 260 / 423 frames.
+
+  Episodes in blocks_stack_easy_D435:  61%|██████    | 61/100 [03:42<02:09,  3.32s/ep][A    Episode episode61: Kept 281 / 445 frames.
+
+  Episodes in blocks_stack_easy_D435:  62%|██████▏   | 62/100 [03:45<02:07,  3.35s/ep][A    Episode episode62: Kept 275 / 434 frames.
+
+  Episodes in blocks_stack_easy_D435:  63%|██████▎   | 63/100 [03:49<02:04,  3.36s/ep][A    Episode episode63: Kept 289 / 437 frames.
+
+  Episodes in blocks_stack_easy_D435:  64%|██████▍   | 64/100 [03:52<02:01,  3.38s/ep][A    Episode episode64: Kept 263 / 432 frames.
+
+  Episodes in blocks_stack_easy_D435:  65%|██████▌   | 65/100 [03:56<01:57,  3.36s/ep][A    Episode episode65: Kept 275 / 425 frames.
+
+  Episodes in blocks_stack_easy_D435:  66%|██████▌   | 66/100 [03:59<01:53,  3.32s/ep][A    Episode episode66: Kept 272 / 433 frames.
+
+  Episodes in blocks_stack_easy_D435:  67%|██████▋   | 67/100 [04:02<01:49,  3.33s/ep][A    Episode episode67: Kept 255 / 419 frames.
+
+  Episodes in blocks_stack_easy_D435:  68%|██████▊   | 68/100 [04:05<01:46,  3.32s/ep][A    Episode episode68: Kept 289 / 450 frames.
+
+  Episodes in blocks_stack_easy_D435:  69%|██████▉   | 69/100 [04:09<01:43,  3.35s/ep][A    Episode episode69: Kept 280 / 446 frames.
+
+  Episodes in blocks_stack_easy_D435:  70%|███████   | 70/100 [04:12<01:41,  3.39s/ep][A    Episode episode70: Kept 288 / 443 frames.
+
+  Episodes in blocks_stack_easy_D435:  71%|███████   | 71/100 [04:16<01:38,  3.41s/ep][A    Episode episode71: Kept 292 / 442 frames.
+
+  Episodes in blocks_stack_easy_D435:  72%|███████▏  | 72/100 [04:19<01:35,  3.42s/ep][A    Episode episode72: Kept 293 / 443 frames.
+
+  Episodes in blocks_stack_easy_D435:  73%|███████▎  | 73/100 [04:23<01:32,  3.43s/ep][A    Episode episode73: Kept 287 / 443 frames.
+
+  Episodes in blocks_stack_easy_D435:  74%|███████▍  | 74/100 [04:26<01:29,  3.45s/ep][A    Episode episode74: Kept 248 / 414 frames.
+
+  Episodes in blocks_stack_easy_D435:  75%|███████▌  | 75/100 [04:30<01:25,  3.42s/ep][A    Episode episode75: Kept 269 / 436 frames.
+
+  Episodes in blocks_stack_easy_D435:  76%|███████▌  | 76/100 [04:34<01:31,  3.81s/ep][A    Episode episode76: Kept 286 / 440 frames.
+
+  Episodes in blocks_stack_easy_D435:  77%|███████▋  | 77/100 [04:39<01:33,  4.08s/ep][A    Episode episode77: Kept 268 / 429 frames.
+
+  Episodes in blocks_stack_easy_D435:  78%|███████▊  | 78/100 [04:44<01:38,  4.48s/ep][A    Episode episode78: Kept 254 / 417 frames.
+
+  Episodes in blocks_stack_easy_D435:  79%|███████▉  | 79/100 [04:50<01:44,  4.96s/ep][A    Episode episode79: Kept 283 / 463 frames.
+
+  Episodes in blocks_stack_easy_D435:  80%|████████  | 80/100 [04:55<01:38,  4.91s/ep][A    Episode episode80: Kept 276 / 445 frames.
+
+  Episodes in blocks_stack_easy_D435:  81%|████████  | 81/100 [04:58<01:21,  4.27s/ep][A    Episode episode81: Kept 261 / 431 frames.
+
+  Episodes in blocks_stack_easy_D435:  82%|████████▏ | 82/100 [05:01<01:08,  3.81s/ep][A    Episode episode82: Kept 278 / 432 frames.
+
+  Episodes in blocks_stack_easy_D435:  83%|████████▎ | 83/100 [05:03<00:59,  3.48s/ep][A    Episode episode83: Kept 264 / 425 frames.
+
+  Episodes in blocks_stack_easy_D435:  84%|████████▍ | 84/100 [05:06<00:51,  3.23s/ep][A    Episode episode84: Kept 268 / 436 frames.
+
+  Episodes in blocks_stack_easy_D435:  85%|████████▌ | 85/100 [05:09<00:46,  3.11s/ep][A    Episode episode85: Kept 266 / 439 frames.
+
+  Episodes in blocks_stack_easy_D435:  86%|████████▌ | 86/100 [05:12<00:41,  3.00s/ep][A    Episode episode86: Kept 288 / 453 frames.
+
+  Episodes in blocks_stack_easy_D435:  87%|████████▋ | 87/100 [05:15<00:38,  2.95s/ep][A    Episode episode87: Kept 287 / 437 frames.
+
+  Episodes in blocks_stack_easy_D435:  88%|████████▊ | 88/100 [05:19<00:40,  3.42s/ep][A    Episode episode88: Kept 285 / 434 frames.
+
+  Episodes in blocks_stack_easy_D435:  89%|████████▉ | 89/100 [05:22<00:37,  3.37s/ep][A    Episode episode89: Kept 281 / 431 frames.
+
+  Episodes in blocks_stack_easy_D435:  90%|█████████ | 90/100 [05:25<00:31,  3.18s/ep][A    Episode episode90: Kept 275 / 432 frames.
+
+  Episodes in blocks_stack_easy_D435:  91%|█████████ | 91/100 [05:28<00:27,  3.05s/ep][A    Episode episode91: Kept 273 / 452 frames.
+
+  Episodes in blocks_stack_easy_D435:  92%|█████████▏| 92/100 [05:31<00:23,  2.99s/ep][A    Episode episode92: Kept 279 / 435 frames.
+
+  Episodes in blocks_stack_easy_D435:  93%|█████████▎| 93/100 [05:33<00:20,  2.92s/ep][A    Episode episode93: Kept 274 / 436 frames.
+
+  Episodes in blocks_stack_easy_D435:  94%|█████████▍| 94/100 [05:36<00:17,  2.87s/ep][A    Episode episode94: Kept 287 / 438 frames.
+
+  Episodes in blocks_stack_easy_D435:  95%|█████████▌| 95/100 [05:39<00:14,  2.84s/ep][A    Episode episode95: Kept 272 / 440 frames.
+
+  Episodes in blocks_stack_easy_D435:  96%|█████████▌| 96/100 [05:42<00:11,  2.84s/ep][A    Episode episode96: Kept 267 / 437 frames.
+
+  Episodes in blocks_stack_easy_D435:  97%|█████████▋| 97/100 [05:45<00:08,  2.81s/ep][A    Episode episode97: Kept 291 / 441 frames.
+
+  Episodes in blocks_stack_easy_D435:  98%|█████████▊| 98/100 [05:47<00:05,  2.81s/ep][A    Episode episode98: Kept 265 / 415 frames.
+
+  Episodes in blocks_stack_easy_D435:  99%|█████████▉| 99/100 [05:50<00:02,  2.74s/ep][A    Episode episode99: Kept 264 / 411 frames.
+
+  Episodes in blocks_stack_easy_D435: 100%|██████████| 100/100 [05:52<00:00,  2.69s/ep][A
+                                                                                       [AProcessing Tasks: 100%|██████████| 3/3 [15:02<00:00, 320.33s/task]Processing Tasks: 100%|██████████| 3/3 [15:02<00:00, 301.00s/task]
+
+Processing complete.
