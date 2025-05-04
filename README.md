@@ -166,11 +166,11 @@ If you find this project useful in your research, please consider citing it:
 
 ```bibtex
 @misc{roboip2p2025, 
-    author    = {Alfonsus Rendy, Nicholas Oh, William Archieta}, -- TODO: Update author
+    author    = {Alfonsus Rendy, Nicholas Oh, William Archieta}, 
     title     = {Next Frame Prediction for Robot Manipulation}, 
     year      = {2025}, 
     publisher = {GitHub},
     journal   = {GitHub repository},
-    howpublished = {\url{https://github.com/alfonsusrr/robo-ip2p}} -- TODO: Update URL
+    howpublished = {https://github.com/alfonsusrr/robo-ip2p} 
 }
 ```
