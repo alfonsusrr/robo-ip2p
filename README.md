@@ -1,6 +1,6 @@
 # 🤖 InstructPix2Pix for Robot Trajectory Forecasting
 
-![Sample Prediction](./samples/ip2p-robotwin-v2-10_2/44.png) 
+![InstructPix2Pix Robot](./banner.gif)
 *<!-- TODO: Update this path to point to an actual sample prediction image after running evaluation! -->*
 
 This project explores predicting future visual scenes along a robot's path 🛣️. By fine-tuning the InstructPix2Pix model, we enable generating future frames conditioned on an initial image and a text prompt describing the action. This helps anticipate the robot's environment, crucial for safe and reliable planning!
@@ -91,6 +91,8 @@ data/
 - The root `data` directory contains subdirectories for different robot tasks.
 - Each task directory contains multiple `episodeXX` subdirectories.
 - Each `episodeXX` directory holds the data recorded during a specific trial or execution of the task (e.g., sequences of images, robot states, actions).
+
+![Sample Prediction](./samples/ip2p-robotwin-v2-10_2/44.png) 
 
 ## 🚀 Usage
 
