@@ -1,4 +1,11 @@
-## Setup Instructions
+# 🤖 InstructPix2Pix for Robot Trajectory Forecasting
+
+![Sample Prediction](./samples/ip2p-robotwin-v2-10_2/44.png) 
+*<!-- TODO: Update this path to point to an actual sample prediction image after running evaluation! -->*
+
+This project explores predicting future visual scenes along a robot's path 🛣️. By fine-tuning the InstructPix2Pix model, we enable generating future frames conditioned on an initial image and a text prompt describing the action. This helps anticipate the robot's environment, crucial for safe and reliable planning!
+
+## 🛠️ Setup Instructions
 
 Follow these steps to set up the environment, download the necessary models, and prepare the data.
 
@@ -20,7 +27,7 @@ Follow these steps to set up the environment, download the necessary models, and
     # source ~/.bashrc
     ```
 
-2.  **Create Conda Environment:**
+2.  **Create Conda Environment:** 📦
 
     Navigate to the root directory of this project (where the `environment.yaml` file is located) and run the following command. This will create a new Conda environment named `ip2p` with all the required dependencies specified in the `environment.yaml` file.
 
@@ -28,7 +35,7 @@ Follow these steps to set up the environment, download the necessary models, and
     conda env create -f environment.yaml
     ```
 
-3.  **Activate the Conda Environment:**
+3.  **Activate the Conda Environment:** ✅
 
     Before running any scripts, activate the environment you just created:
 
@@ -36,7 +43,7 @@ Follow these steps to set up the environment, download the necessary models, and
     conda activate ip2p
     ```
 
-4.  **Download Pretrained Models:**
+4.  **Download Pretrained Models:** 🧠
 
     Run the provided script to download the necessary pretrained models from Hugging Face Hub. The models will be saved to the `./model/` directory by default (as configured in `src/save_load_model/download_model.py`).
 
@@ -44,7 +51,7 @@ Follow these steps to set up the environment, download the necessary models, and
     bash scripts/download_models.sh
     ```
 
-5.  **Download Dataset:**
+5.  **Download Dataset:** 💾
 
     Run the provided script to download and extract both the original dataset (`./data`) and the preprocessed dataset (`./data2`).
 
@@ -54,7 +61,7 @@ Follow these steps to set up the environment, download the necessary models, and
 
 After completing these steps, your environment should be ready, the required models downloaded, and the datasets (`./data` and `./data2`) prepared.
 
-## Data Structure
+## 📊 Data Structure
 
 The dataset downloaded in the setup step is expected to be organized as follows:
 
@@ -77,7 +84,7 @@ data/
 - Each task directory contains multiple `episodeXX` subdirectories.
 - Each `episodeXX` directory holds the data recorded during a specific trial or execution of the task (e.g., sequences of images, robot states, actions).
 
-## Usage
+## 🚀 Usage
 
 Make sure the `ip2p` conda environment is activated (`conda activate ip2p`) before running the following scripts.
 
