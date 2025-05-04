@@ -1,4 +1,4 @@
-# 🤖 InstructPix2Pix for Robot Trajectory Forecasting
+# 🤖 InstructPix2Pix for Robot Visual Trajectory Prediction
 
 ![InstructPix2Pix Robot](./banner.gif)
 
