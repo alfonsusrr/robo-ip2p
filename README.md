@@ -46,15 +46,13 @@ Follow these steps to set up the environment, download the necessary models, and
 
 5.  **Download Dataset:**
 
-    Download the dataset required for training or evaluation. This command downloads the `data.zip` file and extracts it into the current directory (creating a `data` folder if it doesn't exist).
+    Run the provided script to download and extract both the original dataset (`./data`) and the preprocessed dataset (`./data2`).
 
     ```bash
-    wget https://cloudsuite.nitrous.dev/s/nQXFPcZf5FXJ8qa/download/data.zip -O data.zip
-    unzip data.zip
-    rm data.zip # Optional: remove the zip file after extraction
+    bash scripts/download_data.sh
     ```
 
-After completing these steps, your environment should be ready, the required models downloaded, and the dataset prepared.
+After completing these steps, your environment should be ready, the required models downloaded, and the datasets (`./data` and `./data2`) prepared.
 
 ## Data Structure
 
